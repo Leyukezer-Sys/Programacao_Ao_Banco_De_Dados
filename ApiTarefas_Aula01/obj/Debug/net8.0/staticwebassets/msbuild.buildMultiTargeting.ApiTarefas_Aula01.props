@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiTarefas_Aula01.props" />
+</Project>
