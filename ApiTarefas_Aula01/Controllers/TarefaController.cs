@@ -34,7 +34,7 @@ namespace ApiTarefas_Aula01.Controllers
             var lista_tarefa = ObterTarefas();
 
             lista_tarefa.Add(tarefa);
-            
+
             return Ok(lista_tarefa);
         }
 
