@@ -1,0 +1,70 @@
+[
+  {
+    "ContainingType": "AppGestaoFacil.Controllers.ServidorController",
+    "Method": "GetAll",
+    "RelativePath": "servidores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppGestaoFacil.Controllers.ServidorController",
+    "Method": "Post",
+    "RelativePath": "servidores",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppGestaoFacil.Controllers.ServidorController",
+    "Method": "GetById",
+    "RelativePath": "servidores/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppGestaoFacil.Controllers.ServidorController",
+    "Method": "Put",
+    "RelativePath": "servidores/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppGestaoFacil.Controllers.ServidorController",
+    "Method": "Delete",
+    "RelativePath": "servidores/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

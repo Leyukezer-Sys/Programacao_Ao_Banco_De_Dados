@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2022202060022\\source\\repos\\AppGestaoFacil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCB9A4A-2E02-4C2A-96A8-72D7729E5F05}|AppGestaoFacil.csproj|c:\\users\\2022202060022\\source\\repos\\appgestaofacil\\controllers\\servidorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCB9A4A-2E02-4C2A-96A8-72D7729E5F05}|AppGestaoFacil.csproj|solutionrelative:controllers\\servidorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCB9A4A-2E02-4C2A-96A8-72D7729E5F05}|AppGestaoFacil.csproj|c:\\users\\2022202060022\\source\\repos\\appgestaofacil\\dto\\servidordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCB9A4A-2E02-4C2A-96A8-72D7729E5F05}|AppGestaoFacil.csproj|solutionrelative:dto\\servidordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCB9A4A-2E02-4C2A-96A8-72D7729E5F05}|AppGestaoFacil.csproj|c:\\users\\2022202060022\\source\\repos\\appgestaofacil\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DCB9A4A-2E02-4C2A-96A8-72D7729E5F05}|AppGestaoFacil.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCB9A4A-2E02-4C2A-96A8-72D7729E5F05}|AppGestaoFacil.csproj|c:\\users\\2022202060022\\source\\repos\\appgestaofacil\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCB9A4A-2E02-4C2A-96A8-72D7729E5F05}|AppGestaoFacil.csproj|solutionrelative:datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCB9A4A-2E02-4C2A-96A8-72D7729E5F05}|AppGestaoFacil.csproj|c:\\users\\2022202060022\\source\\repos\\appgestaofacil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCB9A4A-2E02-4C2A-96A8-72D7729E5F05}|AppGestaoFacil.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCB9A4A-2E02-4C2A-96A8-72D7729E5F05}|AppGestaoFacil.csproj|c:\\users\\2022202060022\\source\\repos\\appgestaofacil\\model\\servidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCB9A4A-2E02-4C2A-96A8-72D7729E5F05}|AppGestaoFacil.csproj|solutionrelative:model\\servidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\source\\repos\\AppGestaoFacil\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\2022202060022\\source\\repos\\AppGestaoFacil\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T01:25:40.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\source\\repos\\AppGestaoFacil\\DataContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\2022202060022\\source\\repos\\AppGestaoFacil\\DataContext\\AppDbContext.cs",
+              "RelativeToolTip": "DataContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:21:42.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\source\\repos\\AppGestaoFacil\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2022202060022\\source\\repos\\AppGestaoFacil\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:20:28.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServidorController.cs",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\source\\repos\\AppGestaoFacil\\Controllers\\ServidorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServidorController.cs",
+              "ToolTip": "C:\\Users\\2022202060022\\source\\repos\\AppGestaoFacil\\Controllers\\ServidorController.cs",
+              "RelativeToolTip": "Controllers\\ServidorController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAswHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:26:54.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServidorDto.cs",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\source\\repos\\AppGestaoFacil\\DTO\\ServidorDto.cs",
+              "RelativeDocumentMoniker": "DTO\\ServidorDto.cs",
+              "ToolTip": "C:\\Users\\2022202060022\\source\\repos\\AppGestaoFacil\\DTO\\ServidorDto.cs",
+              "RelativeToolTip": "DTO\\ServidorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:25:56.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Servidor.cs",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\source\\repos\\AppGestaoFacil\\Model\\Servidor.cs",
+              "RelativeDocumentMoniker": "Model\\Servidor.cs",
+              "ToolTip": "C:\\Users\\2022202060022\\source\\repos\\AppGestaoFacil\\Model\\Servidor.cs",
+              "RelativeToolTip": "Model\\Servidor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:25:42.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
